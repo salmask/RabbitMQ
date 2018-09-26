@@ -1,2 +1,2 @@
-# RabbitMQ
-four types of exchanges
+
+publisher subscriber of activemq
